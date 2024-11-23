@@ -1548,7 +1548,7 @@ msgstr "Przerwij zadanie rysowania"
 
 #: ../../frescobaldi_app/engrave/__init__.py:112
 msgid "Engrave (preview; press Shift for custom)"
-msgstr ""
+msgstr "Rysuj (podgląd; naciśnij Shift dla niestandardowego)"
 
 #: ../../frescobaldi_app/engrave/__init__.py:239
 #: ../../frescobaldi_app/sessions/dialog.py:374
