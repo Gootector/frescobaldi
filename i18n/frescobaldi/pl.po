@@ -1772,16 +1772,16 @@ msgstr "Brakuje:"
 
 #: ../../frescobaldi_app/extensions/__init__.py:465
 msgid "Inactive:"
-msgstr ""
+msgstr "Nieaktywny:"
 
 #: ../../frescobaldi_app/extensions/__init__.py:475
 msgid "Circular:"
-msgstr ""
+msgstr "Okólnik:"
 
 #: ../../frescobaldi_app/extensions/__init__.py:528
 #, python-brace-format
 msgid "Extension '{name}' failed to load with the given explanation:"
-msgstr ""
+msgstr "Nie udało się załadować rozszerzenia '{name}' z podanym wyjaśnieniem:"
 
 #: ../../frescobaldi_app/extensions/__init__.py:837
 msgid "&Extensions"
@@ -1808,7 +1808,7 @@ msgstr ""
 
 #: ../../frescobaldi_app/extensions/panel.py:73
 msgid "Extension Tool Panel failed to load"
-msgstr ""
+msgstr "Nie udało się załadować panelu narzędzi rozszerzeń"
 
 #: ../../frescobaldi_app/extensions/panel.py:75
 #, python-brace-format
@@ -1841,7 +1841,7 @@ msgstr ""
 
 #: ../../frescobaldi_app/extensions/widget.py:47
 msgid "Tool Panel failed to load"
-msgstr ""
+msgstr "Nie udało się załadować panelu narzędzi"
 
 #: ../../frescobaldi_app/externalchanges/widget.py:99
 msgid "Modified Files"
@@ -1957,7 +1957,7 @@ msgstr ""
 
 #: ../../frescobaldi_app/file_export/__init__.py:84
 msgid "The audio file couldn't be created. Please create midi file first"
-msgstr ""
+msgstr "Nie można utworzyć pliku dźwiękowego. Najpierw utwórz plik MIDI"
 
 #: ../../frescobaldi_app/file_export/__init__.py:89
 msgctxt "dialog title"
@@ -1987,7 +1987,7 @@ msgstr "Eksportuj do różnych formatów dźwiękowych."
 #: ../../frescobaldi_app/file_import/__init__.py:96
 #, python-brace-format
 msgid "The file {filename} could not be converted: wrong file type."
-msgstr ""
+msgstr "Nie można przekonwertować pliku {filename}: nieprawidłowy typ pliku."
 
 #: ../../frescobaldi_app/file_import/__init__.py:120
 msgid "All importable formats"
@@ -2034,7 +2034,7 @@ msgstr "Importuj..."
 
 #: ../../frescobaldi_app/file_import/__init__.py:219
 msgid "Generic import for all LilyPond tools."
-msgstr ""
+msgstr "Ogólny import dla wszystkich narzędzi LilyPond."
 
 #: ../../frescobaldi_app/file_import/__init__.py:220
 #: ../../frescobaldi_app/macos/globalmenu.py:116
@@ -2073,7 +2073,7 @@ msgstr "Uruchom abc2ly"
 #: ../../frescobaldi_app/file_import/midi.py:60
 #: ../../frescobaldi_app/file_import/musicxml.py:101
 msgid "Pitches in absolute mode"
-msgstr ""
+msgstr "Wysokości w trybie absolutnym"
 
 #: ../../frescobaldi_app/file_import/midi.py:62
 msgid "Run midi2ly"
@@ -2101,7 +2101,7 @@ msgstr ""
 
 #: ../../frescobaldi_app/file_import/musicxml.py:104
 msgid "Language for pitch names"
-msgstr ""
+msgstr "Język nazw wysokości"
 
 #: ../../frescobaldi_app/file_import/musicxml.py:105
 #: ../../frescobaldi_app/preferences/documentation.py:117
@@ -2161,7 +2161,7 @@ msgstr "Czcionki dokumentu"
 
 #: ../../frescobaldi_app/fonts/dialog.py:178
 msgid "Copy font command to clipboard"
-msgstr ""
+msgstr "Kopiuj polecenie czcionki do schowka"
 
 #: ../../frescobaldi_app/fonts/dialog.py:179
 msgid "&Use"
@@ -2169,7 +2169,7 @@ msgstr "&Użyj"
 
 #: ../../frescobaldi_app/fonts/dialog.py:181
 msgid "Insert font command at the current cursor position"
-msgstr ""
+msgstr "Wstaw polecenie czcionki w bieżącej pozycji kursora"
 
 #: ../../frescobaldi_app/fonts/dialog.py:183
 msgid "Text Fonts"
@@ -2182,15 +2182,15 @@ msgstr "Czcionki nutowe"
 
 #: ../../frescobaldi_app/fonts/dialog.py:185
 msgid "Font Command"
-msgstr ""
+msgstr "Polecenie czcionki"
 
 #: ../../frescobaldi_app/fonts/dialog.py:186
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Inne"
 
 #: ../../frescobaldi_app/fonts/fontcommand.py:227
 msgid "Set font families"
-msgstr ""
+msgstr "Ustaw rodziny czcionek"
 
 #: ../../frescobaldi_app/fonts/fontcommand.py:228
 msgid "Roman"
@@ -2334,7 +2334,7 @@ msgstr "Zainstaluj..."
 
 #: ../../frescobaldi_app/fonts/musicfonts.py:120
 msgid "Link fonts from a directory to the current LilyPond installation"
-msgstr ""
+msgstr "Połącz czcionki z katalogu z bieżącą instalacją LilyPond"
 
 #: ../../frescobaldi_app/fonts/musicfonts.py:122
 msgid "Install (repo)"
@@ -2433,7 +2433,7 @@ msgstr ""
 
 #: ../../frescobaldi_app/fonts/preview.py:131
 msgid "Select sample score"
-msgstr ""
+msgstr "Wybierz przykładową partyturę"
 
 #: ../../frescobaldi_app/fonts/preview.py:135
 msgid ""
@@ -2479,7 +2479,7 @@ msgstr ""
 
 #: ../../frescobaldi_app/fonts/preview.py:205
 msgid "Schenker Diagram"
-msgstr ""
+msgstr "Diagram Schenkera"
 
 #: ../../frescobaldi_app/fonts/preview.py:208
 msgid ""
