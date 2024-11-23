@@ -5925,7 +5925,7 @@ msgstr "Flicorno soprano"
 #: ../../frescobaldi_app/scorewiz/parts/brass.py:87
 msgctxt "abbreviation for Flugelhorn"
 msgid "Fgh."
-msgstr ""
+msgstr "Flic. s."
 
 #: ../../frescobaldi_app/scorewiz/parts/brass.py:95
 msgid "Mellophone"
@@ -5952,7 +5952,7 @@ msgstr "Flicorno baritono"
 #: ../../frescobaldi_app/scorewiz/parts/brass.py:126
 msgctxt "abbreviation for Baritone"
 msgid "Bar."
-msgstr ""
+msgstr "Flic. bar."
 
 #: ../../frescobaldi_app/scorewiz/parts/brass.py:136
 msgid "Euphonium"
@@ -5983,7 +5983,7 @@ msgstr "B-t."
 
 #: ../../frescobaldi_app/scorewiz/parts/brass.py:176
 msgid "Brass"
-msgstr ""
+msgstr "Dęte blaszane"
 
 #: ../../frescobaldi_app/scorewiz/parts/containers.py:41
 msgid "Staff Group"
@@ -6063,21 +6063,21 @@ msgstr "Kontenery"
 
 #: ../../frescobaldi_app/scorewiz/parts/keyboard.py:41
 msgid "Piano"
-msgstr "Pianoforte"
+msgstr "Piano"
 
 #: ../../frescobaldi_app/scorewiz/parts/keyboard.py:45
 msgctxt "abbreviation for Piano"
 msgid "Pno."
-msgstr ""
+msgstr "P-no"
 
 #: ../../frescobaldi_app/scorewiz/parts/keyboard.py:59
 msgid "Electric piano"
-msgstr "Pianoforte elettrico"
+msgstr "Piano elettrico"
 
 #: ../../frescobaldi_app/scorewiz/parts/keyboard.py:63
 msgctxt "abbreviation for Electric piano"
 msgid "E.Pno."
-msgstr ""
+msgstr "P-no el."
 
 #: ../../frescobaldi_app/scorewiz/parts/keyboard.py:75
 msgid "Harpsichord"
@@ -6086,7 +6086,7 @@ msgstr "Clavicembalo"
 #: ../../frescobaldi_app/scorewiz/parts/keyboard.py:79
 msgctxt "abbreviation for Harpsichord"
 msgid "Hs."
-msgstr ""
+msgstr "Cl-lo"
 
 #: ../../frescobaldi_app/scorewiz/parts/keyboard.py:87
 msgid "Clavichord"
@@ -6187,7 +6187,7 @@ msgstr ""
 
 #: ../../frescobaldi_app/scorewiz/parts/keyboard.py:352
 msgid "Keyboard instruments"
-msgstr ""
+msgstr "Instrumenty klawiszowe"
 
 #: ../../frescobaldi_app/scorewiz/parts/percussion.py:43
 msgid "Timpani"
@@ -6246,7 +6246,7 @@ msgstr "Campane tubolari"
 #: ../../frescobaldi_app/scorewiz/parts/percussion.py:113
 msgctxt "abbreviation for Tubular bells"
 msgid "Tub."
-msgstr ""
+msgstr "Camp. tub."
 
 #: ../../frescobaldi_app/scorewiz/parts/percussion.py:121
 msgid "Steelpan"
@@ -6259,12 +6259,12 @@ msgstr "St. p."
 
 #: ../../frescobaldi_app/scorewiz/parts/percussion.py:135
 msgid "Dulcimer"
-msgstr "Dulcimer"
+msgstr "Cimbalom"
 
 #: ../../frescobaldi_app/scorewiz/parts/percussion.py:139
 msgctxt "abbreviation for Dulcimer"
 msgid "Dul."
-msgstr "Dul."
+msgstr "Cimb."
 
 #: ../../frescobaldi_app/scorewiz/parts/percussion.py:147
 msgid "Glockenspiel"
@@ -6344,7 +6344,7 @@ msgstr ""
 
 #: ../../frescobaldi_app/scorewiz/parts/percussion.py:266
 msgid "Percussion"
-msgstr ""
+msgstr "Perkusja"
 
 #: ../../frescobaldi_app/scorewiz/parts/plucked_strings.py:71
 msgid "Custom tuning"
@@ -6574,7 +6574,7 @@ msgstr "Ar."
 
 #: ../../frescobaldi_app/scorewiz/parts/plucked_strings.py:463
 msgid "Plucked strings"
-msgstr ""
+msgstr "Strunowe szarpane"
 
 #: ../../frescobaldi_app/scorewiz/parts/special.py:43
 msgid "Structure"
@@ -6653,7 +6653,7 @@ msgstr "B. c."
 
 #: ../../frescobaldi_app/scorewiz/parts/strings.py:114
 msgid "Strings"
-msgstr ""
+msgstr "Strunowe smyczkowe"
 
 #: ../../frescobaldi_app/scorewiz/parts/vocal.py:63
 msgid "Stanzas:"
@@ -6691,7 +6691,7 @@ msgstr "Mezzosoprano"
 #: ../../frescobaldi_app/scorewiz/parts/vocal.py:138
 msgctxt "abbreviation for Mezzo-soprano"
 msgid "Ms."
-msgstr ""
+msgstr "M-s."
 
 #: ../../frescobaldi_app/scorewiz/parts/vocal.py:144
 msgid "Alto"
@@ -6832,7 +6832,7 @@ msgstr "Zwrotki są umieszczane między systemami."
 
 #: ../../frescobaldi_app/scorewiz/parts/vocal.py:690
 msgid "Vocal"
-msgstr ""
+msgstr "Wokal"
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:36
 msgid "Flute"
@@ -6854,21 +6854,21 @@ msgstr "Fl. picc."
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:61
 msgid "Alto Flute"
-msgstr ""
+msgstr "Flauto contralto"
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:65
 msgctxt "abbreviation Alto flute"
 msgid "Afl."
-msgstr ""
+msgstr "Fl. c-a."
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:74
 msgid "Bass flute"
-msgstr ""
+msgstr "Flauto basso"
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:78
 msgctxt "abbreviation for Bass flute"
 msgid "Bfl."
-msgstr ""
+msgstr "Fl. b."
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:87
 msgid "Oboe"
@@ -6890,12 +6890,12 @@ msgstr "Ob. d'am."
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:112
 msgid "English horn"
-msgstr ""
+msgstr "Corno inglese"
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:116
 msgctxt "abbreviation for English horn"
 msgid "Eng.h."
-msgstr ""
+msgstr "C. ingl."
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:125
 msgid "Bassoon"
@@ -6944,138 +6944,138 @@ msgstr "Cl. in A"
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:193
 msgid "Bass clarinet"
-msgstr ""
+msgstr "Clarinetto basso"
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:197
 msgctxt "abbreviation for Bass clarinet"
 msgid "BCl."
-msgstr ""
+msgstr "Cl. b."
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:206
 msgid "C-Melody Sax"
-msgstr ""
+msgstr "Sassofono C melody"
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:210
 msgctxt "abbreviation for C-Melody Sax"
 msgid "C-Mel Sax"
-msgstr ""
+msgstr "Sass. C mel."
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:218
 msgid "Sopranino Sax"
-msgstr ""
+msgstr "Sassofono sopranino"
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:222
 msgctxt "abbreviation for Sopranino Sax"
 msgid "SiSx."
-msgstr ""
+msgstr "Sass. s."
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:231
 msgid "Soprano Sax"
-msgstr ""
+msgstr "Sassofono soprano"
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:235
 msgctxt "abbreviation for Soprano Sax"
 msgid "SoSx."
-msgstr ""
+msgstr "Sass. s."
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:244
 msgid "Alto Sax"
-msgstr ""
+msgstr "Sassofono contralto"
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:248
 msgctxt "abbreviation for Alto Sax"
 msgid "ASx."
-msgstr ""
+msgstr "Sass. c-a."
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:257
 msgid "Tenor Sax"
-msgstr ""
+msgstr "Sassofono tenore"
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:261
 msgctxt "abbreviation for Tenor Sax"
 msgid "TSx."
-msgstr ""
+msgstr "Sass. t."
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:270
 msgid "Baritone Sax"
-msgstr ""
+msgstr "Sassofono baritono"
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:274
 msgctxt "abbreviation for Baritone Sax"
 msgid "BSx."
-msgstr ""
+msgstr "Sass. bar."
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:283
 msgid "Bass Sax"
-msgstr ""
+msgstr "Sassofono basso"
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:287
 msgctxt "abbreviation for Bass Sax"
 msgid "BsSx."
-msgstr ""
+msgstr "Sass. b."
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:296
 msgid "Sopranino recorder"
-msgstr ""
+msgstr "Flauto dolce sopranino"
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:300
 msgctxt "abbreviation for Sopranino recorder"
 msgid "Si.rec."
-msgstr ""
+msgstr "Fl. dol. s."
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:308
 msgid "Soprano recorder"
-msgstr ""
+msgstr "Flauto dolce soprano"
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:312
 msgctxt "abbreviation for Soprano recorder"
 msgid "S.rec."
-msgstr ""
+msgstr "Fl. dol. s."
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:321
 msgid "Alto recorder"
-msgstr ""
+msgstr "Flauto dolce contralto"
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:325
 msgctxt "abbreviation for Alto recorder"
 msgid "A.rec."
-msgstr ""
+msgstr "Fl. dol. c-a."
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:333
 msgid "Tenor recorder"
-msgstr ""
+msgstr "Flauto dolce tenore"
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:337
 msgctxt "abbreviation for Tenor recorder"
 msgid "T.rec."
-msgstr ""
+msgstr "Fl. dol. t."
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:345
 msgid "Bass recorder"
-msgstr ""
+msgstr "Flauto dolce basso"
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:349
 msgctxt "abbreviation for Bass recorder"
 msgid "B.rec."
-msgstr ""
+msgstr "Fl. dol. b."
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:360
 msgid "Contra Bass recorder"
-msgstr ""
+msgstr "Flauto dolce contrabbasso"
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:364
 msgctxt "abbreviation for Contra Bass recorder"
 msgid "Cb.rec."
-msgstr ""
+msgstr "Fl. dol. c-b."
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:374
 msgid "Subcontra Bass recorder"
-msgstr ""
+msgstr "Flauto dolce contrabbasso"
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:378
 msgctxt "abbreviation for Subcontra Bass recorder"
 msgid "Scb.rec."
-msgstr ""
+msgstr "Fl. dol. c-b."
 
 #: ../../frescobaldi_app/scorewiz/parts/woodwind.py:387
 msgid "Woodwinds"
