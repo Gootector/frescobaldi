@@ -17,11 +17,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Lokalize 1.0\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Poedit-Language: Polish\n"
 "X-Poedit-Country: POLAND\n"
 "X-Poedit-SourceCharset: utf-8\n"
+"X-Language: pl_PL\n"
+"X-Source-Language: C\n"
 
 #: ../../frescobaldi_app/__main__.py:63 ../../frescobaldi_app/about.py:109
 msgid "A LilyPond Music Editor"
@@ -476,7 +477,8 @@ msgstr "Zapisz obraz jako"
 
 #. L10N: a basic type of input in the editor
 #: ../../frescobaldi_app/copy2image.py:322
-#: ../../frescobaldi_app/cut_assign.py:139 ../../frescobaldi_app/helpers.py:108
+#: ../../frescobaldi_app/cut_assign.py:139
+#: ../../frescobaldi_app/helpers.py:108
 #: ../../frescobaldi_app/mainwindow.py:478
 #: ../../frescobaldi_app/mainwindow.py:566
 #: ../../frescobaldi_app/mainwindow.py:622
@@ -726,8 +728,8 @@ msgid ""
 "We would highly appreciate if you used the button below to open a new issue "
 "on GitHub, the development platform used by the Frescobaldi project, to let "
 "developers know about this problem. If you have general questions, you can "
-"also send them to the <a href=\"https://groups.google.com/g/"
-"frescobaldi\">Frescobaldi user group</a>."
+"also send them to the <a "
+"href=\"https://groups.google.com/g/frescobaldi\">Frescobaldi user group</a>."
 msgstr ""
 
 #: ../../frescobaldi_app/exception.py:103
@@ -1193,7 +1195,7 @@ msgstr "Zamknij"
 #: ../../frescobaldi_app/menu.py:138
 msgctxt "submenu title"
 msgid "&Import/Export"
-msgstr "&Importuj/eksportuj..."
+msgstr "&Importuj/eksportuj"
 
 #: ../../frescobaldi_app/menu.py:157
 msgctxt "submenu title"
@@ -1431,7 +1433,7 @@ msgstr "Automaty&czne uzupełnianie"
 
 #: ../../frescobaldi_app/autocomplete/__init__.py:80
 msgid "Show C&ompletions Popup"
-msgstr "Pokaż okno podręczne uzupełniania"
+msgstr "P&okaż okno podręczne uzupełniania"
 
 #: ../../frescobaldi_app/charmap/__init__.py:39
 #: ../../frescobaldi_app/preferences/tools.py:183
@@ -1610,7 +1612,7 @@ msgstr "Rysuj (niestan&dardowy)..."
 
 #: ../../frescobaldi_app/engrave/__init__.py:406
 msgid "Abort Engraving &Job"
-msgstr "Porzuć rysowanie"
+msgstr ""
 
 #: ../../frescobaldi_app/engrave/__init__.py:407
 msgid "Automatic E&ngrave"
@@ -2739,7 +2741,7 @@ msgstr "Dziennik LilyPond"
 
 #: ../../frescobaldi_app/logtool/__init__.py:51
 msgid "LilyPond &Log"
-msgstr "Dziennik &LilyPond "
+msgstr "Dziennik &LilyPond"
 
 #: ../../frescobaldi_app/logtool/__init__.py:94
 msgid "Next Error Message"
@@ -3214,7 +3216,8 @@ msgstr "Transponuj &modalnie..."
 
 #: ../../frescobaldi_app/pitch/__init__.py:178
 msgid "Transposes all notes in the document or selection within a given mode."
-msgstr "Transponuje wszystkie nuty w dokumencie lub zaznaczeniu w danym trybie."
+msgstr ""
+"Transponuje wszystkie nuty w dokumencie lub zaznaczeniu w danym trybie."
 
 #: ../../frescobaldi_app/pitch/__init__.py:179
 msgid "Mode shift..."
@@ -3222,7 +3225,9 @@ msgstr ""
 
 #: ../../frescobaldi_app/pitch/__init__.py:181
 msgid "Transforms all notes in the document or selection to an optional mode."
-msgstr "Przekształca wszystkie nuty w dokumencie lub zaznaczeniu do trybu opcjonalnego."
+msgstr ""
+"Przekształca wszystkie nuty w dokumencie lub zaznaczeniu do trybu "
+"opcjonalnego."
 
 #: ../../frescobaldi_app/pitch/__init__.py:182
 msgid "Simplify Accidentals"
@@ -3285,8 +3290,8 @@ msgid ""
 msgstr ""
 "Przetłumaczenie nie powiodło się.\n"
 "\n"
-"Partytura zawiera ćwierćtonowe znaki chromatyczne, które nie są dostępne w tym "
-"języku \"{name}\"."
+"Partytura zawiera ćwierćtonowe znaki chromatyczne, które nie są dostępne w "
+"tym języku \"{name}\"."
 
 #: ../../frescobaldi_app/pitch/pitch.py:72
 msgid ""
@@ -3302,7 +3307,7 @@ msgstr "(dla LilyPond poniżej 2.14) lub"
 
 #: ../../frescobaldi_app/pitch/pitch.py:77
 msgid "(for LilyPond 2.14 and higher.)"
-msgstr "(dla LilyPond 2.14 lub wyższego)."
+msgstr "(dla LilyPond 2.14 lub wyższego)"
 
 #: ../../frescobaldi_app/pitch/pitch.py:115
 #: ../../frescobaldi_app/pitch/pitch.py:154
@@ -3316,8 +3321,8 @@ msgid ""
 "Please enter two absolute pitches, separated by a space, using the pitch "
 "name language \"{language}\"."
 msgstr ""
-"Wpisz dwie absolutne wysokości oddzielone spacją, posługując się nazwami "
-"z języka \"{language}\"."
+"Wpisz dwie absolutne wysokości oddzielone spacją, posługując się nazwami z "
+"języka \"{language}\"."
 
 #: ../../frescobaldi_app/pitch/pitch.py:155
 msgid ""
@@ -3335,8 +3340,8 @@ msgid ""
 msgstr ""
 "Nie można wykonać żądanej transpozycji.\n"
 "\n"
-"Partytura może zawierać ćwierćtonowe znaki chromatyczne, które nie są dostępne "
-"w tym języku \"{language}\"."
+"Partytura może zawierać ćwierćtonowe znaki chromatyczne, które nie są "
+"dostępne w tym języku \"{language}\"."
 
 #: ../../frescobaldi_app/preferences/__init__.py:115
 #: ../../frescobaldi_app/preferences/midi.py:170
@@ -3627,7 +3632,7 @@ msgstr ""
 
 #: ../../frescobaldi_app/preferences/editor.py:359
 msgid "Name of attribute:  "
-msgstr "Nazwa atrybutu: "
+msgstr "Nazwa atrybutu:  "
 
 #: ../../frescobaldi_app/preferences/editor.py:361
 msgid ""
@@ -4195,8 +4200,7 @@ msgstr "Sesje"
 #: ../../frescobaldi_app/preferences/general.py:305
 msgid "Session to load if Frescobaldi is started without arguments"
 msgstr ""
-"Sesja do załadowania, jeśli Frescobaldi zostanie uruchomiony bez "
-"argumentów"
+"Sesja do załadowania, jeśli Frescobaldi zostanie uruchomiony bez argumentów"
 
 #: ../../frescobaldi_app/preferences/general.py:307
 msgid "Start with no session"
@@ -4313,8 +4317,7 @@ msgstr "Używana wersja LilyPond"
 
 #: ../../frescobaldi_app/preferences/lilypond.py:107
 msgid "Automatically choose LilyPond version from document"
-msgstr ""
-"Automatyczny wybór wersji LilyPond w danym dokumencie"
+msgstr "Automatyczny wybór wersji LilyPond w danym dokumencie"
 
 #: ../../frescobaldi_app/preferences/lilypond.py:109
 msgid ""
@@ -4342,10 +4345,10 @@ msgstr "Ustaw jako &domyślny"
 msgid ""
 "You have installed Frescobaldi from Flathub using Flatpak. Because Flatpak "
 "isolates apps from the rest of the system, it is not possible to use custom "
-"LilyPond binaries in this configuration. Please either let Frescobaldi auto-"
-"install a given LilyPond version, using the “Add…” menu, or if you wish to "
-"use a custom build, install Frescobaldi using a distribution package or from "
-"source."
+"LilyPond binaries in this configuration. Please either let Frescobaldi "
+"auto-install a given LilyPond version, using the “Add…” menu, or if you wish "
+"to use a custom build, install Frescobaldi using a distribution package or "
+"from source."
 msgstr ""
 
 #: ../../frescobaldi_app/preferences/lilypond.py:373
@@ -4480,7 +4483,7 @@ msgstr "Ścieżka LilyPond:"
 
 #: ../../frescobaldi_app/preferences/lilypond.py:727
 msgid "Default output format"
-msgstr "Domyślny format wyjściowy:"
+msgstr "Domyślny format wyjściowy"
 
 #: ../../frescobaldi_app/preferences/lilypond.py:730
 msgid "Create PDF (Portable Document Format) documents by default."
@@ -4646,7 +4649,7 @@ msgstr "Wielkość szkła powiększającego (Ctrl+kliknij w widoku partytury)."
 #. L10N: as in "400 pixels", appended after number in spinbox, note the leading space
 #: ../../frescobaldi_app/preferences/musicviewers.py:119
 msgid " pixels"
-msgstr "piksele"
+msgstr " piksele"
 
 #: ../../frescobaldi_app/preferences/musicviewers.py:120
 msgid "Magnifier Scale:"
@@ -5342,7 +5345,7 @@ msgstr ""
 
 #: ../../frescobaldi_app/rhythm/__init__.py:153
 msgid "&Double durations"
-msgstr "Zwiększ wartości dwukrotnie"
+msgstr "Zwiększ wartości &dwukrotnie"
 
 #: ../../frescobaldi_app/rhythm/__init__.py:155
 msgid "Double all the durations in the selection."
@@ -5350,7 +5353,7 @@ msgstr "Zwiększ wartości rytmiczne dwukrotnie w zaznaczeniu."
 
 #: ../../frescobaldi_app/rhythm/__init__.py:156
 msgid "&Halve durations"
-msgstr "Zmniejsz wartości o połowę"
+msgstr "Zmn&iejsz wartości o połowę"
 
 #: ../../frescobaldi_app/rhythm/__init__.py:158
 msgid "Halve all the durations in the selection."
@@ -5400,7 +5403,7 @@ msgstr "Usuń wszystkie wartości rytmiczne w zaznaczeniu."
 
 #: ../../frescobaldi_app/rhythm/__init__.py:174
 msgid "Make &implicit"
-msgstr "Ukryj wartości"
+msgstr "Ukryj wartośc&i"
 
 #: ../../frescobaldi_app/rhythm/__init__.py:176
 msgid "Make durations implicit (remove repeated durations)."
@@ -6007,8 +6010,7 @@ msgstr "Połącz kreski taktowe"
 
 #: ../../frescobaldi_app/scorewiz/parts/containers.py:71
 msgid "If checked, barlines are connected between the staves."
-msgstr ""
-"Jeśli zaznaczone, kreski taktowe są połączone między pięcioliniami."
+msgstr "Jeśli zaznaczone, kreski taktowe są połączone między pięcioliniami."
 
 #: ../../frescobaldi_app/scorewiz/parts/containers.py:92
 msgid "Score"
@@ -6738,8 +6740,7 @@ msgstr "Dodaj pięciolinię z akompaniamentem"
 msgid ""
 "Adds an accompaniment staff and also puts an accompaniment voice in the "
 "upper staff."
-msgstr ""
-"Dodaje pięciolinię z akompaniamentem i głos w górnej pięciolinii."
+msgstr "Dodaje pięciolinię z akompaniamentem i głos w górnej pięciolinii."
 
 #: ../../frescobaldi_app/scorewiz/parts/vocal.py:271
 #: ../../frescobaldi_app/scorewiz/parts/vocal.py:358
@@ -6810,7 +6811,8 @@ msgstr "Te same słowa dla każdego głosu"
 msgid ""
 "Every voice gets its own lyrics, using the same text as the other voices."
 msgstr ""
-"Każdy głos ma własne słowa, w których wykorzystano ten sam tekst, co w przypadku pozostałych głosów."
+"Każdy głos ma własne słowa, w których wykorzystano ten sam tekst, co w "
+"przypadku pozostałych głosów."
 
 #: ../../frescobaldi_app/scorewiz/parts/vocal.py:662
 msgid "Every voice different lyrics"
@@ -7929,8 +7931,8 @@ msgstr "Zamknij wszystkie rękopisy"
 #: ../../frescobaldi_app/viewers/manuscript/widget.py:37
 #, python-brace-format
 msgid ""
-"<p>The Manuscript Viewer displays an original manuscript one is copying from."
-"</p>\n"
+"<p>The Manuscript Viewer displays an original manuscript one is copying "
+"from.</p>\n"
 "<p>See {link} for more information.</p>"
 msgstr ""
 
@@ -7969,7 +7971,7 @@ msgstr "Schemat:"
 
 #: ../../frescobaldi_app/widgets/schemeselector.py:94
 msgid "Re&name..."
-msgstr "Zmień &nazwę... "
+msgstr "Zmień &nazwę..."
 
 #: ../../frescobaldi_app/widgets/schemeselector.py:96
 msgid "&Export..."
@@ -8328,7 +8330,7 @@ msgstr "Plik"
 #: ../../i18n/messages.py:102
 msgctxt "QFileDialog"
 msgid "File &name:"
-msgstr "Nazwa pliku:"
+msgstr "&Nazwa pliku:"
 
 #: ../../i18n/messages.py:103
 msgctxt "QFileDialog"
@@ -8411,11 +8413,13 @@ msgid "Show &hidden files"
 msgstr "&Pokaż ukryte pliki"
 
 #: ../../i18n/messages.py:120
+#, qt-format
 msgctxt "QFileSystemModel"
 msgid "%1 bytes"
 msgstr "%1 bajtów"
 
 #: ../../i18n/messages.py:121
+#, qt-format
 msgctxt "QFileSystemModel"
 msgid "%1 KB"
 msgstr "%1 KB"
@@ -8501,6 +8505,7 @@ msgid "XIM"
 msgstr "XIM"
 
 #: ../../i18n/messages.py:142
+#, qt-format
 msgctxt "QLocalSocket"
 msgid "%1: Invalid name"
 msgstr "%1: Nieprawidłowa nazwa"
@@ -8826,6 +8831,7 @@ msgid "Exit"
 msgstr "Zakończ"
 
 #: ../../i18n/messages.py:211
+#, qt-format
 msgctxt "QShortcut"
 msgid "F%1"
 msgstr "F%1"
