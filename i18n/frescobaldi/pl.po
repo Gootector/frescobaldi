@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: frescobaldi 3.3.0\n"
 "Report-Msgid-Bugs-To: frescobaldi@googlegroups.com\n"
 "POT-Creation-Date: 2023-10-26 16:31+0200\n"
-"PO-Revision-Date: 2024-11-23 00:00+0000\n"
+"PO-Revision-Date: 2024-11-24 00:00+0000\n"
 "Last-Translator: Grzegorz Pruchniakowski <grzegorz.pruchniakowski@gmail.com>\n"
 "Language-Team: Polish <translation-team-pl@lists.sourceforge.net>\n"
 "Language: pl\n"
@@ -1009,7 +1009,7 @@ msgstr "Sprawdź zmiany zewnętrzne..."
 msgid ""
 "Opens a window to check whether open documents were changed or deleted by "
 "other programs."
-msgstr ""
+msgstr "Otwiera okno umożliwiające sprawdzenie, czy otwarte dokumenty zostały zmienione lub usunięte przez inne programy."
 
 #: ../../frescobaldi_app/mainwindow.py:1364
 msgid "Print Source..."
@@ -1415,7 +1415,7 @@ msgstr "&Poprzedni widok"
 #: ../../frescobaldi_app/webenginedummy.py:47
 #, python-brace-format
 msgid "<b>Could not load PyQtWebEngine, so the {tool} cannot be loaded.</b>"
-msgstr ""
+msgstr "<b>Nie można załadować PyQtWebEngine, więc {tool} nie może zostać załadowany.</b>"
 
 #: ../../frescobaldi_app/webenginedummy.py:56
 #, python-brace-format
@@ -1592,7 +1592,7 @@ msgstr "Rysuj"
 
 #: ../../frescobaldi_app/engrave/__init__.py:401
 msgid "Engrave (preview; Shift-click for custom)"
-msgstr ""
+msgstr "Rysuj (podgląd; Shift+kliknij dla niestandardowego)"
 
 #: ../../frescobaldi_app/engrave/__init__.py:402
 msgid "&Engrave (preview)"
@@ -1604,11 +1604,11 @@ msgstr "Rysuj (&publikacja)"
 
 #: ../../frescobaldi_app/engrave/__init__.py:404
 msgid "Engrave (&layout control)"
-msgstr ""
+msgstr "Rysuj (kontro&la układu)"
 
 #: ../../frescobaldi_app/engrave/__init__.py:405
 msgid "Engrave (&custom)..."
-msgstr "Rysuj (niestan&dardowy)..."
+msgstr "Rysuj (niestan&dardowe)..."
 
 #: ../../frescobaldi_app/engrave/__init__.py:406
 msgid "Abort Engraving &Job"
@@ -2689,11 +2689,11 @@ msgstr ""
 
 #: ../../frescobaldi_app/layoutcontrol/__init__.py:106
 msgid "Layout Control Options"
-msgstr ""
+msgstr "Opcje kontroli układu"
 
 #: ../../frescobaldi_app/layoutcontrol/__init__.py:107
 msgid "Layout &Control Options"
-msgstr ""
+msgstr "Op&cje kontroli układu"
 
 #: ../../frescobaldi_app/layoutcontrol/widget.py:98
 #: ../../frescobaldi_app/layoutcontrol/widget.py:99
