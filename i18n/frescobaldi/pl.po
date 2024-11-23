@@ -930,7 +930,7 @@ msgstr "Główny pasek narzędzi"
 
 #: ../../frescobaldi_app/mainwindow.py:1188
 msgid "Music View Toolbar"
-msgstr "Pasek narzędzi okna partytury"
+msgstr "Pasek narzędzi widoku partytury"
 
 #: ../../frescobaldi_app/mainwindow.py:1343
 msgctxt "action: new document"
@@ -3028,11 +3028,11 @@ msgstr "MIARA"
 #: ../../frescobaldi_app/musicview/__init__.py:116
 msgctxt "window title"
 msgid "Music View"
-msgstr "Okno partytury"
+msgstr "Widok partytury"
 
 #: ../../frescobaldi_app/musicview/__init__.py:117
 msgid "&Music View"
-msgstr "Ok&no parytury"
+msgstr "Wid&ok parytury"
 
 #: ../../frescobaldi_app/musicview/__init__.py:166
 #: ../../frescobaldi_app/viewers/__init__.py:195
@@ -3055,7 +3055,7 @@ msgstr ""
 #: ../../frescobaldi_app/musicview/__init__.py:265
 #: ../../frescobaldi_app/viewers/__init__.py:340
 msgid "Select Music View Document"
-msgstr "Wybierz dokument w oknie partytury"
+msgstr "Wybierz dokument w widoku partytury"
 
 #: ../../frescobaldi_app/musicview/__init__.py:266
 #: ../../frescobaldi_app/viewers/__init__.py:341
@@ -4641,7 +4641,7 @@ msgstr "Wielkość powiększenia:"
 
 #: ../../frescobaldi_app/preferences/musicviewers.py:117
 msgid "Size of the magnifier glass (Ctrl+Click in the Music View)."
-msgstr "Wielkość szkła powiększającego (Ctrl+kliknij w oknie partytury)."
+msgstr "Wielkość szkła powiększającego (Ctrl+kliknij w widoku partytury)."
 
 #. L10N: as in "400 pixels", appended after number in spinbox, note the leading space
 #: ../../frescobaldi_app/preferences/musicviewers.py:119
@@ -4782,7 +4782,7 @@ msgstr ""
 
 #: ../../frescobaldi_app/preferences/tools.py:137
 msgid "Music View"
-msgstr "Okno partytury"
+msgstr "Widok partytury"
 
 #: ../../frescobaldi_app/preferences/tools.py:138
 msgid "Only load updated PDF documents"
@@ -8913,7 +8913,7 @@ msgstr ""
 #: ../../i18n/messages.py:228
 msgctxt "QShortcut"
 msgid "Music"
-msgstr "Okno parytury"
+msgstr "Widok parytury"
 
 #: ../../i18n/messages.py:229
 msgctxt "QShortcut"
