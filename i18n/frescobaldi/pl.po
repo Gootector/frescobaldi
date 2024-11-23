@@ -7638,7 +7638,7 @@ msgstr "Edytuj bieżącą wstawkę. ({key})"
 
 #: ../../frescobaldi_app/snippet/widget.py:192
 msgid "Configure Keyboard &Shortcut..."
-msgstr "Konfiguruj skrót klawiaturowy..."
+msgstr "Konfiguruj &skrót klawiaturowy..."
 
 #: ../../frescobaldi_app/snippet/widget.py:194
 msgid "Remove the selected snippets."
