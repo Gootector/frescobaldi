@@ -844,7 +844,7 @@ msgid ""
 "Do you want to save your changes or discard them?"
 msgstr ""
 "Dokument \"{name}\" został zmodyfikowany.\n"
-"Chcesz zapisać zmiany czy je odrzucić?"
+"Chcesz zapisać zmiany czy je porzucić?"
 
 #: ../../frescobaldi_app/mainwindow.py:379
 msgid "Tab Bar"
