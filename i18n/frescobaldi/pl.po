@@ -8452,7 +8452,7 @@ msgstr "Typ"
 #: ../../i18n/messages.py:128
 msgctxt "QFontDatabase"
 msgid "Black"
-msgstr "Ciemna"
+msgstr "Black"
 
 #: ../../i18n/messages.py:129
 msgctxt "QFontDatabase"
@@ -8462,12 +8462,12 @@ msgstr "Pogrubiona"
 #: ../../i18n/messages.py:130
 msgctxt "QFontDatabase"
 msgid "Demi Bold"
-msgstr ""
+msgstr "Lekko pogrubiona"
 
 #: ../../i18n/messages.py:131
 msgctxt "QFontDatabase"
 msgid "Light"
-msgstr "Jasna"
+msgstr "Light"
 
 #: ../../i18n/messages.py:132
 msgctxt "QFontDatabase"
