@@ -232,7 +232,7 @@ msgstr "Dalej"
 #: ../../frescobaldi_app/contextmenu.py:79
 #, python-brace-format
 msgid "Open \"{url}\""
-msgstr "Otwórz \"{url}\""
+msgstr "Otwórz adres \"{url}\""
 
 #: ../../frescobaldi_app/contextmenu.py:101
 #, python-brace-format
@@ -548,7 +548,7 @@ msgstr ""
 #: ../../frescobaldi_app/sessions/dialog.py:126
 #, python-brace-format
 msgid "Could not write to: {url}"
-msgstr "Nie można pisać do: {url}"
+msgstr "Nie można zapisać do: {url}"
 
 #: ../../frescobaldi_app/document.py:218
 #: ../../frescobaldi_app/doclist/widget.py:114
@@ -696,7 +696,7 @@ msgstr "Edytuj na miejscu"
 #: ../../frescobaldi_app/editinplace.py:157
 #, python-brace-format
 msgid "Editing line {linenum} of \"{document}\" ({variable})"
-msgstr "Edycja linii {linenum} \"{document}\" ({variable})"
+msgstr "Edytowanie linii {linenum} \"{document}\" ({variable})"
 
 #: ../../frescobaldi_app/exception.py:87
 #, python-brace-format
