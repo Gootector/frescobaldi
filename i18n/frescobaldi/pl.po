@@ -142,7 +142,7 @@ msgstr "Wyślij wiadomość e-mail do opiekunów programu."
 #: ../../frescobaldi_app/about.py:117
 #: ../../frescobaldi_app/userguide/resolve.py:44
 msgid "Translated by Your Name."
-msgstr "Polskie tłumaczenie Frescobaldi: Grzegorz "Gootector" Pruchniakowski."
+msgstr "Polskie tłumaczenie Frescobaldi: Grzegorz Pruchniakowski."
 
 #: ../../frescobaldi_app/about.py:122
 #, python-brace-format
