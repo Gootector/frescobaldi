@@ -9323,7 +9323,7 @@ msgstr ""
 
 #: ../../linux/org.frescobaldi.Frescobaldi.metainfo.xml.in:38
 msgid "Text editor and music view"
-msgstr ""
+msgstr "Edytor tekstu i widok partytury"
 
 #: ../../linux/org.frescobaldi.Frescobaldi.metainfo.xml.in:42
 msgid "Change the input without leaving the music view"
@@ -9335,7 +9335,7 @@ msgstr ""
 
 #: ../../linux/org.frescobaldi.Frescobaldi.metainfo.xml.in:50
 msgid "Syntax highlighting and automatic completion"
-msgstr ""
+msgstr "Podświetlanie składni i automatyczne uzupełnianie"
 
 #: ../../linux/org.frescobaldi.Frescobaldi.metainfo.xml.in:54
 msgid "Snippet manager and editor"
@@ -9343,4 +9343,4 @@ msgstr "Menedżer i edytor wstawek"
 
 #: ../../linux/org.frescobaldi.Frescobaldi.metainfo.xml.in:58
 msgid "Score Wizard to quickly setup a music score"
-msgstr ""
+msgstr "Kreator partytury do szybkiego skonfigurowania partytury muzycznej"
