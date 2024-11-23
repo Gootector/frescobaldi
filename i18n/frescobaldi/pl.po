@@ -5716,7 +5716,7 @@ msgstr "Utwórz wyjście MIDI"
 
 #: ../../frescobaldi_app/scorewiz/settings.py:159
 msgid "Create a MIDI file in addition to the PDF file."
-msgstr "Oprócz pliku PDF utwórz także plik MIDI."
+msgstr "Oprócz pliku PDF utwórz również plik MIDI."
 
 #: ../../frescobaldi_app/scorewiz/settings.py:160
 msgid "Show metronome mark"
