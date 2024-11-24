@@ -6352,7 +6352,7 @@ msgstr "Perkusja"
 
 #: ../../frescobaldi_app/scorewiz/parts/plucked_strings.py:71
 msgid "Custom tuning"
-msgstr ""
+msgstr "Strojenie niestandardowe"
 
 #: ../../frescobaldi_app/scorewiz/parts/plucked_strings.py:97
 msgid "Staff type:"
@@ -6360,7 +6360,7 @@ msgstr "Typ pięciolinii:"
 
 #: ../../frescobaldi_app/scorewiz/parts/plucked_strings.py:105
 msgid "Tuning:"
-msgstr ""
+msgstr "Strojenie:"
 
 #: ../../frescobaldi_app/scorewiz/parts/plucked_strings.py:107
 msgid ""
@@ -6371,7 +6371,7 @@ msgstr ""
 
 #: ../../frescobaldi_app/scorewiz/parts/plucked_strings.py:112
 msgid "Custom tuning..."
-msgstr ""
+msgstr "Strojenie niestandardowe..."
 
 #: ../../frescobaldi_app/scorewiz/parts/plucked_strings.py:225
 msgid "Normal staff"
