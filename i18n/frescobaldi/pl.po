@@ -6592,11 +6592,11 @@ msgstr "B."
 
 #: ../../frescobaldi_app/scorewiz/parts/plucked_strings.py:277
 msgid "Open G-tuning (aDGBD)"
-msgstr "Strój G (aDGBD)"
+msgstr "Strój G (aDGHD)"
 
 #: ../../frescobaldi_app/scorewiz/parts/plucked_strings.py:278
 msgid "C-tuning (gCGBD)"
-msgstr "Strój C (gCGBD)"
+msgstr "Strój C (gCGHD)"
 
 #: ../../frescobaldi_app/scorewiz/parts/plucked_strings.py:279
 msgid "Modal tuning (gDGCD)"
@@ -9300,7 +9300,7 @@ msgstr "Czas"
 #: ../../i18n/messages.py:267
 msgctxt "QShortcut"
 msgid "Toggle Media Play/Pause"
-msgstr "Przełącz Odtwarzaj/Wstrzymaj"
+msgstr "Przełącz Odtwarzaj/wstrzymaj"
 
 #: ../../i18n/messages.py:268
 msgctxt "QShortcut"
