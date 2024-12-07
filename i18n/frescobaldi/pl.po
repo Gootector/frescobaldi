@@ -4772,7 +4772,7 @@ msgstr "Jeśli zaznaczone, Frescobaldi rysuje cień wokół stron."
 msgid ""
 "Use vector based backend (Arthur) for rendering PDF documents on screen "
 "(experimental!)"
-msgstr "Użyj backend oparty na wektorach (Arthur) do renderowania dokumentów PDF na ekranie (eksperymentalne!)"
+msgstr "Użyj backendu opartego na wektorach (Arthur) do renderowania dokumentów PDF na ekranie (eksperymentalne!)"
 
 #: ../../frescobaldi_app/preferences/musicviewers.py:111
 msgid ""
@@ -4817,7 +4817,7 @@ msgstr "Drukuj partyturę"
 
 #: ../../frescobaldi_app/preferences/musicviewers.py:178
 msgid "Use vector based backend (Arthur) for printing PDF documents"
-msgstr "Użyj backend oparty na wektorach (Arthur) do drukowania dokumentów PDF"
+msgstr "Użyj backendu opartego na wektorach (Arthur) do drukowania dokumentów PDF"
 
 #: ../../frescobaldi_app/preferences/musicviewers.py:180
 msgid ""
