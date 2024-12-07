@@ -6286,11 +6286,11 @@ msgstr "Cel."
 
 #: ../../frescobaldi_app/scorewiz/parts/keyboard.py:202
 msgid "Set to 0 to disable the right-hand part altogether."
-msgstr "Ustaw na 0, aby zlikwidować prawostronną część."
+msgstr "Ustaw na 0, aby zlikwidować część prawostronną."
 
 #: ../../frescobaldi_app/scorewiz/parts/keyboard.py:204
 msgid "Set to 0 to disable the left-hand part altogether."
-msgstr "Ustaw na 0, aby zlikwidować lewostronną część."
+msgstr "Ustaw na 0, aby zlikwidować część lewostronną."
 
 #: ../../frescobaldi_app/scorewiz/parts/keyboard.py:227
 msgid "Synth lead"
