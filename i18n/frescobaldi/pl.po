@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: frescobaldi 3.3.0\n"
 "Report-Msgid-Bugs-To: frescobaldi@googlegroups.com\n"
 "POT-Creation-Date: 2023-10-26 16:31+0200\n"
-"PO-Revision-Date: 2024-11-28 00:00+0000\n"
+"PO-Revision-Date: 2024-12-07 00:00+0000\n"
 "Last-Translator: Grzegorz Pruchniakowski <grzegorz.pruchniakowski@gmail.com>\n"
 "Language-Team: Polish <translation-team-pl@lists.sourceforge.net>\n"
 "Language: pl\n"
@@ -4772,7 +4772,7 @@ msgstr "Jeśli zaznaczone, Frescobaldi rysuje cień wokół stron."
 msgid ""
 "Use vector based backend (Arthur) for rendering PDF documents on screen "
 "(experimental!)"
-msgstr ""
+msgstr "Użyj backend oparty na wektorach (Arthur) do renderowania dokumentów PDF na ekranie (eksperymentalne!)"
 
 #: ../../frescobaldi_app/preferences/musicviewers.py:111
 msgid ""
@@ -4817,7 +4817,7 @@ msgstr "Drukuj partyturę"
 
 #: ../../frescobaldi_app/preferences/musicviewers.py:178
 msgid "Use vector based backend (Arthur) for printing PDF documents"
-msgstr ""
+msgstr "Użyj backend oparty na wektorach (Arthur) do drukowania dokumentów PDF"
 
 #: ../../frescobaldi_app/preferences/musicviewers.py:180
 msgid ""
@@ -4922,11 +4922,11 @@ msgstr "Pokaż dziennik przy rozpoczęciu zadania"
 
 #: ../../frescobaldi_app/preferences/tools.py:92
 msgid "Display plain log output"
-msgstr ""
+msgstr "Wyświetl zwykłe wyjście dziennika"
 
 #: ../../frescobaldi_app/preferences/tools.py:94
 msgid "If checked, Frescobaldi will not shorten filenames in the log output."
-msgstr ""
+msgstr "Jeśli zaznaczone, Frescobaldi nie skróci nazw plików w wyjściu dziennika."
 
 #: ../../frescobaldi_app/preferences/tools.py:95
 msgid "Hide automatic engraving jobs"
@@ -9105,12 +9105,12 @@ msgstr "Meta"
 #: ../../i18n/messages.py:228
 msgctxt "QShortcut"
 msgid "Music"
-msgstr ""
+msgstr "Partytura"
 
 #: ../../i18n/messages.py:229
 msgctxt "QShortcut"
 msgid "News"
-msgstr ""
+msgstr "Newsy"
 
 #: ../../i18n/messages.py:230
 msgctxt "QShortcut"
@@ -9300,7 +9300,7 @@ msgstr "Czas"
 #: ../../i18n/messages.py:267
 msgctxt "QShortcut"
 msgid "Toggle Media Play/Pause"
-msgstr "Przełącz Odtwarzaj/wstrzymaj"
+msgstr "Przełącz odtwarzaj/wstrzymaj"
 
 #: ../../i18n/messages.py:268
 msgctxt "QShortcut"
