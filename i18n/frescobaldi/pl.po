@@ -9532,7 +9532,7 @@ msgid ""
 "It aims to be powerful, yet lightweight and easy to use."
 msgstr ""
 "Frescobaldi jest zaawansowanym edytorem tekstu do edycji plików nutowych "
-"LilyPond. Ma być wydajny, a jednocześnie łatwy w użyciu."
+"LilyPond. Ma być wydajny, a jednocześnie łatwy w użytkowaniu."
 
 #: ../../linux/org.frescobaldi.Frescobaldi.metainfo.xml.in:14
 msgid "Features:"
