@@ -9531,7 +9531,7 @@ msgid ""
 "Frescobaldi is an advanced text editor to edit LilyPond sheet music files. "
 "It aims to be powerful, yet lightweight and easy to use."
 msgstr ""
-"Frescobaldi jest zaawansowanym edytor tekstu do edycji plików nutowych "
+"Frescobaldi jest zaawansowanym edytorem tekstu do edycji plików nutowych "
 "LilyPond. Ma być wydajny, a jednocześnie łatwy w użyciu."
 
 #: ../../linux/org.frescobaldi.Frescobaldi.metainfo.xml.in:14
