@@ -3733,7 +3733,7 @@ msgid ""
 "the clipboard. Otherwise, a CSS stylesheet is embedded."
 msgstr ""
 "Jeśli włączone, atrybuty stylu inline są używane podczas kopiowania "
-"kolorowego HTML do schowka. W przeciwnym razie, osadzony jest arkusz stylów "
+"kolorowego HTML do schowka. W przeciwnym razie osadzony jest arkusz stylów "
 "CSS."
 
 #: ../../frescobaldi_app/preferences/editor.py:335
@@ -3746,7 +3746,7 @@ msgid ""
 "a file. Otherwise, a CSS stylesheet is embedded."
 msgstr ""
 "Jeśli włączone, atrybuty stylu inline są używane podczas eksportowania "
-"kolorowego HTML do pliku. W przeciwnym razie, osadzony jest arkusz stylów "
+"kolorowego HTML do pliku. W przeciwnym razie osadzony jest arkusz stylów "
 "CSS."
 
 #: ../../frescobaldi_app/preferences/editor.py:340
