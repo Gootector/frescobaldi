@@ -2301,7 +2301,7 @@ msgid ""
 "NOTE: This requires openLilyLib (oll-core)\n"
 "and the 'notation-fonts' openLilyLib package."
 msgstr ""
-"Określ czcionki za pomocą ustawienia za pomocą openLilyLib.\n"
+"Określ czcionki za pomocą ustawienia, używając openLilyLib.\n"
 "Uwaga: Wymaga to openLilyLib (oll-core) i pakietu openLilyLib "
 "'notation-fonts'."
 
