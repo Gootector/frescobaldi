@@ -6,7 +6,7 @@
 # Grzegorz Pruchniakowski, <grzegorz.pruchniakowski@gmail.com>, 2024-2025
 msgid ""
 msgstr ""
-"Project-Id-Version: frescobaldi 3.3.0\n"
+"Project-Id-Version: Frescobaldi 4.0.0\n"
 "Report-Msgid-Bugs-To: frescobaldi@googlegroups.com\n"
 "POT-Creation-Date: 2023-10-26 16:31+0200\n"
 "PO-Revision-Date: 2025-02-02 00:00+0000\n"
