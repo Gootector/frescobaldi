@@ -2051,7 +2051,7 @@ msgstr "Eksportuj bieżący dokument jako MusicXML."
 
 #: ../../frescobaldi_app/file_export/__init__.py:139
 msgid "Export Audio..."
-msgstr "Eksportuj dźwięk..."
+msgstr "Eksportuj nagranie..."
 
 #: ../../frescobaldi_app/file_export/__init__.py:140
 msgid "Export to different audio formats."
@@ -2166,7 +2166,7 @@ msgstr "Importuj pozycje pauz"
 
 #: ../../frescobaldi_app/file_import/musicxml.py:99
 msgid "Import page layout"
-msgstr "Importuj układ strony"
+msgstr "Importuj układ stron"
 
 #: ../../frescobaldi_app/file_import/musicxml.py:102
 msgid "Comment out midi block"
