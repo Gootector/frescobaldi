@@ -3295,7 +3295,7 @@ msgid ""
 "Change the LilyPond language used for pitch names in this document or in the "
 "selection."
 msgstr ""
-"Zmień język używany przez LilyPond dla nazw wysokości dla tego dokumentu "
+"Zmień język używany przez LilyPond dla nazw wysokości w tym dokumencie "
 "lub w zaznaczeniu."
 
 #: ../../frescobaldi_app/pitch/__init__.py:165
