@@ -3,7 +3,7 @@
 # This file is distributed under the same license as the Frescobaldi package.
 #
 # Piotr Komorowski, <piotr-komorowski@wp.pl>, 2009-2012
-# Grzegorz Pruchniakowski, <grzegorz.pruchniakowski@gmail.com>, 2024
+# Grzegorz Pruchniakowski, <grzegorz.pruchniakowski@gmail.com>, 2024-2025
 msgid ""
 msgstr ""
 "Project-Id-Version: frescobaldi 3.3.0\n"
