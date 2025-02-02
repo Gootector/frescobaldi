@@ -3877,7 +3877,7 @@ msgstr ""
 
 #: ../../frescobaldi_app/userguide/transpose.md:10
 msgid "E.g. when transposing a minor third upwards, you would enter:"
-msgstr "Np. podczas transponowania o tercję małą w górę, wpisujesz:"
+msgstr "Np. podczas transponowania o tercję małą w górę, wpiszesz:"
 
 #: ../../frescobaldi_app/userguide/transpose.md:16
 msgid "To transpose down a major second, you can enter:"
