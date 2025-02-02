@@ -3778,17 +3778,19 @@ msgstr ""
 
 #: ../../frescobaldi_app/userguide/snippet_python.md:9
 msgid "Other variables that may be referenced:"
-msgstr ""
+msgstr "Inne zmienne, do których można się odwoływać:"
 
 #: ../../frescobaldi_app/userguide/snippet_python.md:12
 msgid "A list of strings describing the type of text the cursor is at."
-msgstr ""
+msgstr "Lista ciągów opisujących typ tekstu, w którym znajduje się kursor."
 
 #: ../../frescobaldi_app/userguide/snippet_python.md:15
 msgid ""
 "The current QTextCursor, giving access to the document. Don't change the "
 "document through the cursor, however."
 msgstr ""
+"Bieżący QTextCursor, dający dostęp do dokumentu. Nie zmieniaj dokumentu "
+"przez kursor."
 
 #. NOTE: markdown formatting
 #: ../../frescobaldi_app/userguide/snippet_python.md:19
@@ -3875,15 +3877,15 @@ msgstr ""
 
 #: ../../frescobaldi_app/userguide/transpose.md:10
 msgid "E.g. when transposing a minor third upwards, you would enter:"
-msgstr ""
+msgstr "Np. podczas transponowania o tercję małą w górę, wpisujesz:"
 
 #: ../../frescobaldi_app/userguide/transpose.md:16
 msgid "To transpose down a major second, you can enter:"
-msgstr ""
+msgstr "Aby transponować w dół o sekundę wielką, możesz wpisać:"
 
 #: ../../frescobaldi_app/userguide/transpose.md:22
 msgid "or:"
-msgstr ""
+msgstr "lub:"
 
 #: ../../frescobaldi_app/userguide/transpose.md:28
 msgid ""
@@ -3911,7 +3913,7 @@ msgstr ""
 #. NOTE: markdown formatting
 #: ../../frescobaldi_app/userguide/var_output.md:1
 msgid "The `output` document variable"
-msgstr ""
+msgstr "Zmienna dokumentu `output`"
 
 #: ../../frescobaldi_app/userguide/var_output.md:3
 msgid ""
@@ -3925,10 +3927,12 @@ msgid ""
 "If a name ends with a directory separator, output files are looked for in "
 "the specified directory."
 msgstr ""
+"Jeśli nazwa kończy się separatorem katalogu, w określonym katalogu "
+"poszukuje plików wyjściowych."
 
 #: ../../frescobaldi_app/userguide/var_output.md:10
 msgid "All names are relative to the document's filename."
-msgstr ""
+msgstr "Wszystkie nazwy są zależne od nazwy pliku dokumentu."
 
 #. NOTE: markdown formatting
 #: ../../frescobaldi_app/userguide/var_output.md:27
