@@ -72,13 +72,13 @@ msgstr ""
 
 #: ../../frescobaldi_app/userguide/abc_import.md:16
 msgid "The abc2ly tab"
-msgstr "Zaakładka abc2ly"
+msgstr "Zakładka abc2ly"
 
 #: ../../frescobaldi_app/userguide/abc_import.md:18
 #: ../../frescobaldi_app/userguide/midi_import.md:14
 #: ../../frescobaldi_app/userguide/musicxml_import.md:14
 msgid "In this tab you have the following options:"
-msgstr "Na tej zakładce masz następujące opcje:"
+msgstr "W tej zakładce masz następujące opcje:"
 
 #: ../../frescobaldi_app/userguide/abc_import.md:20
 #: ../../frescobaldi_app/userguide/musicxml_import.md:19
