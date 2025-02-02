@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Frescobaldi 4.0.0\n"
 "Report-Msgid-Bugs-To: frescobaldi@googlegroups.com\n"
 "POT-Creation-Date: 2023-06-17 20:04+0200\n"
-"PO-Revision-Date: 2025-02-03 00:00+0000\n"
+"PO-Revision-Date: 2025-02-04 00:00+0000\n"
 "Last-Translator: Grzegorz Pruchniakowski <grzegorz.pruchniakowski@gmail.com>\n"
 "Language-Team: Polish <translation-team-pl@lists.sourceforge.net>\n"
 "Language: pl\n"
@@ -130,7 +130,7 @@ msgstr "Źródło sformatowe:"
 msgid ""
 "the code is reformatted. (This is identical to running Tools -> Format.)"
 msgstr ""
-"kod jest sformatowany. (Jest to identyczne z uruchamianiem Narzędzia -> Format.)"
+"kod jest sformatowany. (Jest to tożsame z uruchomieniem Narzędzia -> Format.)"
 
 #: ../../frescobaldi_app/userguide/abc_import.md:41
 #: ../../frescobaldi_app/userguide/midi_import.md:38
@@ -175,6 +175,8 @@ msgid ""
 "LilyPond runs directly. (This is identical to running LilyPond -> Engrave "
 "(preview).)"
 msgstr ""
+"Lilypond działa bezpośrednio. (Jest to tożsame z uruchomieniem LilyPond -> "
+"Rysuj (podgląd)."
 
 #: ../../frescobaldi_app/userguide/about.md:1
 msgid "About Frescobaldi"
